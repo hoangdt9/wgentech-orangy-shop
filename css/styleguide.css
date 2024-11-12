@@ -1,0 +1,16 @@
+:root {
+  --black: rgba(44, 42, 41, 1);
+  --ui-01: rgba(255, 255, 255, 1);
+  --surface: rgba(255, 255, 255, 1);
+  --tokens-text-text-inverted: var(--primitives-color-b-w-blanco);
+  --variable-collection-text-white: rgba(255, 255, 255, 1);
+  --variable-collection-text-black: rgba(31, 31, 31, 1);
+  --variable-collection-text-dark-grey: rgba(121, 126, 126, 1);
+  --variable-collection-secondary-green: rgba(168, 166, 135, 1);
+  --variable-collection-secondary-terracota: rgba(199, 160, 124, 1);
+  --variable-collection-main-light-blue: rgba(214, 225, 235, 1);
+  --variable-collection-color-2: var(--variable-collection-color);
+  --variable-collection-color: var(--variable-collection-main-cream-3);
+  --variable-collection-main-cream-3: rgba(244, 240, 234, 1);
+  --primitives-color-b-w-blanco: rgba(255, 255, 255, 1);
+}
